@@ -45,6 +45,7 @@ const appConfig = {
     youtubeUrl: 'https://youtube.com/wpengine',
     githubUrl: 'https://github.com/wpengine',
     linkedinUrl: 'https://www.linkedin.com/company/wpengine',
+    newsocialUrl: 'https://www.newsocial.com/wpengine',
   },
 };
 
